@@ -1,1 +1,1 @@
-# math.C
+In the main file there is code for my first program I ever wrote. This is a simple math program written in C. It may possibly be updated in the future to have a better interface than just the command line.
